@@ -7,7 +7,7 @@
     "start": "node .",
     "dev": "ts-node src/index.ts",
     "nodemon": "nodemon src/index.ts",
-    "build": "npx tsc"
+    "build": "tsc"
   },
   "keywords": [
     "invite",
