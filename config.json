@@ -1,0 +1,17 @@
+{
+  "token":"MTUxMDUzNTU2ODI4NTYzNDU4MQ.G-YETf.bqTBKKPt-j8YzfdlbPlmmizyBEIHrO81HDEo8I",
+  "inviteLogChannel":"1510249555252215808",
+
+  "inviteImage":{
+  "SendImage":true, 
+  "Background":"https://some-random-image-url.png",
+  "OverlayOpacity":0.7,
+  "LocaleCode":"en",
+  "SuspectTimestamp":604800000
+  },
+
+  "botPresence":{
+  "name":"Invites"
+  }
+   
+}
