@@ -6,4 +6,4 @@ const client = new bot({intents: [33619]});
 const inviteClient = new InviteManager(client);
 export {inviteClient};
 
-client.login(config.token);
+client.login(process.env.TOKEN);
